@@ -1,0 +1,59 @@
+** start of index.html **
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <title>Video Compilation Page</title>
+</head>
+<body>
+  <main>
+    <h1>Three Songs I've Recently Discovered but Wish I Had Heard a Long Time Ago</h1>
+    <p>This is just a small page to share some new songs I've recently heard. I was a teenager in the 80s and we just didn't have music like these songs way back then. Better late than never I guess! Peace!</p>
+    <section>
+      <h2>The White Stripes - Seven Nation Army</h2>
+      <p>It's 2025 and I just heard this song! So I looked them up and here is what I found out (besides that I'm way behind on modern music). The White Stripes were an American Rock duo formed in 1997 in Detroit, Michigan. Jack White plays guitar, keyboards, and piano, and Meg White (Jack and Meg married in 1996) plays the drums and percussion. Both Jack and Meg sing, although in this song (Seven Nation Army) only Jack sings. Seven Nation Army was part of their fourth album, "elephant" that was released in 2003.It won a Grammy for Best Rock Song in 2004, has become a staple at sporting events worldwide, and is consistently ranked among the best songs of the 2000s and of all time by various music publications. Unforntunately, Jack and Meg divorced in 2002 and in 2011 the band broke up.</p>
+      <iframe
+      width="560"
+      height="315"
+      src="https://www.youtube.com/watch?v=0J2QdDbelmY&list=RD0J2QdDbelmY&start_radio=1"
+      title="YouTube video player" 
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+      referrerpolicy="strict-origin-when-cross-origin"   
+      allowfullscreen 
+      ></iframe>
+
+    <section>
+      <h2>The Verve - Bitter Sweet Symphony</h2>
+      <p>The Verve were an English rock band formed in 1990 in Wigan.The band members are lead vocalist Richard Ashcroft, guitarist Nick McCabe, bass guitarist Simon Jones and drummer Peter Salisbury This song, Bittersweet Symphony, became a global hit, reaching number 12 on the US charts and topping charts in several other countries. While they experienced a peak in popularity during the late 1990s, they ultimately broke up and reunited multiple times, officially disbanding in 2009.</p>
+      <iframe
+      width="560"
+      height="315"
+      src="https://www.youtube.com/watch?v=1lyu1KKwC74"
+      title="YouTube video player" 
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+      referrerpolicy="strict-origin-when-cross-origin"   
+      allowfullscreen 
+      ></iframe>
+
+    <section>
+      <h2>Foster The People - Pumped Up Kicks</h2>
+      <p>On my behalf, I heard this song a few years ago, so not as recently the first two songs. Foster the People is an American indie pop band formed in Los Angeles, California, in 2009. Its members include founder and frontman Mark Foster and keyboardist Isom Innis. Foster founded the band in 2009 after spending several years in Los Angeles as a struggling musician and working as a commercial jingle writer. This song, "Pumped up Kicks" reached number three on the Billboard Hot 100 chart and topped the Billboard Alternative Songs chart. The song's success propelled Foster the People into mainstream recognition and helped define an era of commercially successful indie-leaning pop music. "Pumped up Kicks" earned Foster the People a Grammy nomination for Best Pop Duo/Group Performance.
+ </p>
+      <iframe
+      width="560"
+      height="315"
+      src="https://www.youtube.com/watch?v=SDTZ7iX4vTQ&list=RDSDTZ7iX4vTQ&start_radio=1"
+      title="YouTube video player" 
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+      referrerpolicy="strict-origin-when-cross-origin"   
+      allowfullscreen 
+      ></iframe>
+    </section>
+  </main>
+</body>
+</html>
+
+** end of index.html **
+
